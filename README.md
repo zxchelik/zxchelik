@@ -1,16 +1,37 @@
-## Hi there 👋
+# Привет, я Михаил Немыкин
 
-<!--
-**zxchelik/zxchelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-разработчик, фокус на Go и микросервисах.  
+Учусь в НИУ ВШЭ (Программная инженерия) и развиваю production-подход: архитектура, наблюдаемость, тестирование, CI/CD.
 
-Here are some ideas to get you started:
+## Что делаю сейчас
+- Развиваю проекты на **Go** и **Python**
+- Углубляюсь в **микросервисную архитектуру**
+- Практикую **gRPC/Kafka/PostgreSQL**, observability и performance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Технологии
+**Backend:** Go, Python, C#  
+**Go stack:** Chi, pgx/pgxpool, goose, Squirrel, gRPC, Protobuf, Sarama  
+**Python stack:** FastAPI, SQLAlchemy, Aiogram  
+**Infra/Tools:** PostgreSQL, Docker, Docker Compose, GitHub Actions, Prometheus, Grafana, Linux  
+**Messaging:** Kafka, RabbitMQ
+
+## Избранные проекты
+### [service-courier](https://github.com/zxchelik/service-courier)
+Учебный микросервис курьерской доставки (Avito Backend School):  
+- CRUD курьеров, assign/unassign доставки  
+- интеграция с внешним `service-order` по gRPC  
+- обработка событий заказов через Kafka  
+- metrics, rate limit, pprof, unit/integration tests, CI
+
+### Другие проекты
+- Production-система учёта и аналитики производства (FastAPI + React + Telegram bot)
+- QueueMart: микросервисы e-commerce (ASP.NET Core + RabbitMQ)
+
+## Образование
+- **НИУ ВШЭ**, ФКН, Программная инженерия (2023–2027)
+- **Avito Backend School** — Микросервисы на Go (2025–2026)
+
+## Контакты
+- Email: [mishany1105@gmail.com](mailto:mishany1105@gmail.com)
+- GitHub: [github.com/zxchelik](https://github.com/zxchelik)
+- Портфолио: [me.myspagro.ru](https://me.myspagro.ru)
