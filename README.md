@@ -34,4 +34,4 @@ Backend-разработчик, фокус на Go и микросервисах
 ## Контакты
 - Email: [mishany1105@gmail.com](mailto:mishany1105@gmail.com)
 - GitHub: [github.com/zxchelik](https://github.com/zxchelik)
-- Портфолио: [me.myspagro.ru](https://me.myspagro.ru)
+- Резюме: [Резюме.pdf](source/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5.pdf)
