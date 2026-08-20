@@ -16,7 +16,7 @@ Backend-разработчик, фокус на Go и микросервисах
 **Messaging:** Kafka, RabbitMQ
 
 ## Избранные проекты
-### [service-courier](https://github.com/zxchelik/service-courier)
+### [service-courier](https://github.com/zxchelik/Avito-Course-Project)
 Учебный микросервис курьерской доставки (Avito Backend School):  
 - CRUD курьеров, assign/unassign доставки  
 - интеграция с внешним `service-order` по gRPC  
